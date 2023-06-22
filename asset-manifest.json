@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/transformers-rolodex%20/static/css/main.7f06cd1c.css",
-    "main.js": "/transformers-rolodex%20/static/js/main.dc94d761.js",
-    "static/js/787.32032a02.chunk.js": "/transformers-rolodex%20/static/js/787.32032a02.chunk.js",
-    "static/media/SEGA.woff": "/transformers-rolodex%20/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/transformers-rolodex%20/index.html",
-    "main.7f06cd1c.css.map": "/transformers-rolodex%20/static/css/main.7f06cd1c.css.map",
-    "main.dc94d761.js.map": "/transformers-rolodex%20/static/js/main.dc94d761.js.map",
-    "787.32032a02.chunk.js.map": "/transformers-rolodex%20/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/transformers-rolodex/static/css/main.d726f255.css",
+    "main.js": "/transformers-rolodex/static/js/main.c82c8a84.js",
+    "static/js/787.32032a02.chunk.js": "/transformers-rolodex/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/transformers-rolodex/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/transformers-rolodex/index.html",
+    "main.d726f255.css.map": "/transformers-rolodex/static/css/main.d726f255.css.map",
+    "main.c82c8a84.js.map": "/transformers-rolodex/static/js/main.c82c8a84.js.map",
+    "787.32032a02.chunk.js.map": "/transformers-rolodex/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f06cd1c.css",
-    "static/js/main.dc94d761.js"
+    "static/css/main.d726f255.css",
+    "static/js/main.c82c8a84.js"
   ]
 }
